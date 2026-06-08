@@ -1,0 +1,4 @@
+beto-fakenews/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
